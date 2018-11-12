@@ -1,4 +1,4 @@
-package javaone;
+package javacase;
 
 public class Dog
 {
@@ -33,6 +33,6 @@ public class Dog
     {
     	return this.name;
     }
-    
-    
+  
+   
 }
